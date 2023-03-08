@@ -9,7 +9,7 @@
   <summary>Spring 2023 Build Night Stack!</summary>
   <br>
 
-* ☀️   Front-end: React, Javascript, CSS/HTML
+* ☀️   Front-end: React, Javascript, Tailwind
 * 🌴   Blockchain: Solidity, Hardhat, Ethers
 * 🍁   Other Tech: Chainlink
 
