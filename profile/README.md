@@ -10,7 +10,7 @@
   <br>
 
 * ☀️   Front-end: React, Javascript, Tailwind
-* 🌴   Blockchain: Solidity, Hardhat, Ethers
+* 🌴   Blockchain: Solidity, Hardhat, Ethers, Typescript
 * 🍁   Other Tech: Chainlink
 
 </details>
