@@ -3,10 +3,8 @@
 ---
 ✌️ We are blockchain devs at the University of Southern California 
 
-💻 We are currently hosting build nights in preperation for our EduDAO Hackathon in April
-
 <details>
-  <summary>Spring 2023 Build Night Stack!</summary>
+  <summary> Build Night Stack!</summary>
   <br>
 
 * ☀️   Front-end: React, Javascript, Tailwind
